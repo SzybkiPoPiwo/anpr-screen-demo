@@ -1,0 +1,9 @@
+PyQt6
+mss
+opencv-python
+numpy
+easyocr
+scikit-learn
+requests
+beautifulsoup4
+pdfplumber

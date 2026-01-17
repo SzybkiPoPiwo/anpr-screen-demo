@@ -1,0 +1,22 @@
+{
+  "KR1234A": {
+    "opis": "Auto testowe #1",
+    "tag": "TEST"
+  },
+  "WA9876B": {
+    "opis": "Auto testowe #2",
+    "tag": "TEST"
+  },
+  "ERA75TM": {
+    "opis": "Test – auto z neta",
+    "tag": "DEMO"
+  },
+  "ERA75T1": {
+    "opis": "Policja",
+    "tag": "nieoznakoiwani"
+  },
+  "ERAZ5TM": {
+    "opis": "policja",
+    "tag": "nieoznakowani"
+  }
+}
