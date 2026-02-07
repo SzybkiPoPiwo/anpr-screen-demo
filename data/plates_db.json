@@ -18,5 +18,29 @@
   "ERAZ5TM": {
     "opis": "policja",
     "tag": "nieoznakowani"
+  },
+  "KWA2137A": {
+    "opis": "Auto z wadowic TEST",
+    "tag": "TEST"
+  },
+    "KLI2137A": {
+    "opis": "Auto z pow. liman TEST",
+    "tag": "TEST"
+  },
+    "KK2137A": {
+    "opis": "Auto z krakowa TEST",
+    "tag": "TEST"
+  },
+    "WWL2137A": {
+    "opis": "Auto z warszawy TEST",
+    "tag": "TEST"
+  },
+    "DWR2137A": {
+    "opis": "Auto z dln. Slaska TEST",
+    "tag": "TEST"
+  },  
+  "KRA2137A": {
+    "opis": "Auto z powiatu krakowskiego TEST",
+    "tag": "TEST"
   }
 }
